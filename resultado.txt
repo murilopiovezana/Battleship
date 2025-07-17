@@ -1,0 +1,6 @@
+Jogador 1: {NOME_DA_EQUIPE} vs Jogador 2: Bot-Linear
+PLACAR:
+Jogador {NOME_DA_EQUIPE}: 23 jogadas
+Jogador Bot-Linear: 22 jogadas
+
+Jogador {NOME_DA_EQUIPE} ganhou!

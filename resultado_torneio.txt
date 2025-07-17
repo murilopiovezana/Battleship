@@ -1,0 +1,31 @@
+
+-----Resultados contra Bot-Linear:
+- Número de jogos: 1000
+- Número de vitórias do aluno: 1000
+- Número de derrotas do aluno: 0
+- Número máximo de ataques do aluno: 90
+- Número mínimo de ataques do aluno: 21
+- Média de número de ataques do aluno: 36.70
+- Mediana do número de ataques do aluno: 33.00
+- Desvio padrão do número de ataques: 11.60
+--------------------------------
+-----Resultados contra Bot-Random:
+- Número de jogos: 1000
+- Número de vitórias do aluno: 976
+- Número de derrotas do aluno: 24
+- Número máximo de ataques do aluno: 97
+- Número mínimo de ataques do aluno: 36
+- Média de número de ataques do aluno: 68.06
+- Mediana do número de ataques do aluno: 68.00
+- Desvio padrão do número de ataques: 11.76
+--------------------------------
+
+ANÁLISE GERAL DE TODOS OS JOGOS:
+- Número total de jogos: 2000
+- Número total de vitórias do aluno: 1976
+- Número total de derrotas do aluno: 24
+- Número máximo de ataques do aluno em todos os jogos: 97
+- Número mínimo de ataques do aluno em todos os jogos: 21
+- Média de número de ataques do aluno em todos os jogos: 52.38
+- Mediana do número de ataques do aluno em todos os jogos: 53.00
+- Desvio padrão do número de ataques em todos os jogos: 19.55
